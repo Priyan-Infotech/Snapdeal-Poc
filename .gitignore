@@ -1,0 +1,6 @@
+
+*.cfs
+*.log
+.metadata/.lock
+*.xmi
+/.metadata/
